@@ -1,3 +1,5 @@
 node_modules
 .env
+vectors.json
 nodejs-express-mongodb-starter-project
+express-generator-typescript
